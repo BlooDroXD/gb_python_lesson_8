@@ -18,7 +18,3 @@ try:
 
 except DivisionByZero as exception:
     print(exception(dividend, divisor))
-
-
-
-
